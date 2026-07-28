@@ -1,0 +1,519 @@
+{
+  "title": "全国骑士据点第三批公开平台候选",
+  "updatedAt": "2026-07-28",
+  "method": "B站公开视频、小红书/抖音公开搜索索引用于发现线索；政府、媒体与公开地图资料用于交叉确认。所有地点均不代表摩托可以进入，出发前必须核验限行、停车、施工、天气与营业状态。",
+  "cities": [
+    {
+      "city": "深圳",
+      "spots": [
+        {
+          "name": "大鹏半岛海岸公路候选线",
+          "type": "远途/海岸拍照",
+          "summary": "大鹏海岸是公开视频与图文高频出片方向，但深圳摩托通行限制严格，只作为公共内容线索，不能直接生成摩托导航。",
+          "verification": "B站+小红书公开索引",
+          "parking": "车辆规则待交管与现场复核",
+          "access": "restricted",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Dp5X6MEKM/"
+        },
+        {
+          "name": "海上世界文化艺术中心外围",
+          "type": "海景建筑拍照/咖啡",
+          "summary": "公开推荐提到海景咖啡与建筑拍照，摩托只考虑外围合法停车后步行进入。",
+          "verification": "小红书公开索引交叉媒体",
+          "parking": "外围合法停车，禁止驶入步行区域",
+          "access": "outside_only",
+          "sourceUrl": "https://www.cosmopolitan.com.hk/lifestyle/shenzhen-10-popular-photospot"
+        },
+        {
+          "name": "云海驿站咖啡方向",
+          "type": "山景咖啡/拍照",
+          "summary": "公开咖啡攻略提到高处观景咖啡与拍照空间；营业、预约及机动车可达范围需单独确认。",
+          "verification": "小红书热门线索交叉媒体",
+          "parking": "到店前确认摩托通行和停车",
+          "access": "unknown",
+          "sourceUrl": "https://www.elle.com.hk/life/shenzhen-cafe-recommendations/"
+        }
+      ]
+    },
+    {
+      "city": "南京",
+      "spots": [
+        {
+          "name": "黄龙岘机车庭院",
+          "type": "骑士据点/跑山终点",
+          "summary": "B站摩友实拍明确以摩旅南京第一站和机车庭院为主题，适合优先让南京车友核验当前营业与停车体验。",
+          "verification": "B站公开视频",
+          "parking": "到访前确认当前营业和停车规则",
+          "access": "candidate",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Li4y117df/"
+        },
+        {
+          "name": "钟山风景区梧桐大道外围",
+          "type": "城市风景拍照",
+          "summary": "公开骑行攻略列出梧桐大道、美龄宫、灵谷寺等打卡点；摩托不得照搬自行车路线，只能核验外围机动车道路。",
+          "verification": "B站公开攻略",
+          "parking": "景区外合法停车后步行",
+          "access": "outside_only",
+          "sourceUrl": "https://www.bilibili.com/video/BV14r54zgESS/"
+        },
+        {
+          "name": "江宁黄龙岘—乡村公路方向",
+          "type": "半日慢骑路线",
+          "summary": "以黄龙岘为终点延伸乡村道路候选，必须避开景区步道、村内扰民和路边随意停车。",
+          "verification": "社交平台线索",
+          "parking": "只在正规停车点停靠",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%8D%97%E4%BA%AC%20%E6%91%A9%E6%97%85%20%E9%BB%84%E9%BE%99%E5%B2%98"
+        }
+      ]
+    },
+    {
+      "city": "武汉",
+      "spots": [
+        {
+          "name": "东湖听涛—磨山—落雁外围",
+          "type": "湖景拍照/城市漫游",
+          "summary": "东湖绿道串联多个热门打卡区，但绿道不是摩托道路；App只展示外围合法道路和停车后步行方案。",
+          "verification": "武汉政府资料+B站内容",
+          "parking": "摩托停景区外围合法位置",
+          "access": "outside_only",
+          "sourceUrl": "https://3g.wuhan.gov.cn/sy/whyw/202401/t20240131_2354032.shtml"
+        },
+        {
+          "name": "木兰山周边合法公路方向",
+          "type": "近郊跑山候选",
+          "summary": "武汉摩友公开视频证明近郊路线需求旺盛，但具体线路未公开完整，先作为待当地骑友补全的方向。",
+          "verification": "B站摩友内容线索",
+          "parking": "路线、施工和景区规则待复核",
+          "access": "unknown",
+          "sourceUrl": "https://www.bilibili.com/video/BV1T9GeztE2K/"
+        },
+        {
+          "name": "汉口江滩工业建筑外围",
+          "type": "城市夜景拍照",
+          "summary": "江景与工业建筑适合城市内容，摩托只能在允许机动车通行和停车的位置完成拍摄。",
+          "verification": "公开图文候选",
+          "parking": "严禁占用江滩步道和机动车道",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%B1%89%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E6%8B%8D%E7%85%A7"
+        }
+      ]
+    },
+    {
+      "city": "天津",
+      "spots": [
+        {
+          "name": "蓟州山区一日往返方向",
+          "type": "近郊跑山候选",
+          "summary": "B站公开搜索出现天津摩托一日往返跑山内容；具体道路需从视频与当地交管信息二次确认。",
+          "verification": "B站公开搜索索引",
+          "parking": "只在合法观景区停靠",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%20%E6%91%A9%E6%89%98%E4%BD%AC%20%E7%A7%81%E8%97%8F%E8%B7%AF%E7%BA%BF"
+        },
+        {
+          "name": "滨海新区海岸建筑外围",
+          "type": "海岸拍照",
+          "summary": "适合城市与海岸题材，进入前核验天津摩托限行道路，不能为了拍照驶入步行区。",
+          "verification": "公开平台候选",
+          "parking": "外围合法停车",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E6%B4%A5%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E6%89%93%E5%8D%A1"
+        },
+        {
+          "name": "天津之眼—海河城市夜景外围",
+          "type": "城市夜景拍照",
+          "summary": "天津之眼和海河是公开内容中的高频打卡地，摩托只推荐外围合法机位，不把自行车绿道当摩托路线。",
+          "verification": "B站公开内容",
+          "parking": "避开桥面、绿道和禁停路段",
+          "access": "outside_only",
+          "sourceUrl": "https://www.bilibili.com/video/BV1bm41167gW/"
+        }
+      ]
+    },
+    {
+      "city": "厦门",
+      "spots": [
+        {
+          "name": "同安X416—军营村",
+          "type": "跑山/露营方向",
+          "summary": "B站公开视频明确记录同安军营村方向山路、急弯与露营体验；路况描述具有时效性，出发前仍要复核。",
+          "verification": "B站公开视频",
+          "parking": "村内不扰民，只在正规停车区",
+          "access": "candidate",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Po4y1k7US/"
+        },
+        {
+          "name": "环岛路步行打卡方案",
+          "type": "海岸拍照",
+          "summary": "环岛路线在公开视频中很热门，但厦门岛内摩托限制严格，默认只展示停车换步行方案。",
+          "verification": "B站公开攻略",
+          "parking": "严格核验岛内限摩，默认外围停车",
+          "access": "restricted",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Dp4y1P7R8/"
+        },
+        {
+          "name": "厦门—龙岩国道方向",
+          "type": "远途摩旅入口",
+          "summary": "小排量踏板进藏系列记录从厦门到龙岩的第一段，可作为长途路线研究素材，不等于现成导航。",
+          "verification": "B站摩旅系列",
+          "parking": "按最新国省道与补给规划",
+          "access": "unknown",
+          "sourceUrl": "https://www.bilibili.com/video/BV1MP4y1t7Uh/"
+        }
+      ]
+    },
+    {
+      "city": "合肥",
+      "spots": [
+        {
+          "name": "环巢湖合法公路方向",
+          "type": "湖景远途",
+          "summary": "公开平台常见环湖内容，摩托必须与自行车绿道区分，只使用允许机动车通行的道路。",
+          "verification": "社交平台公开索引",
+          "parking": "湖边仅在合法停车区停靠",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%90%88%E8%82%A5%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E7%8E%AF%E5%B7%A2%E6%B9%96"
+        },
+        {
+          "name": "紫蓬山外围公路",
+          "type": "近郊山路候选",
+          "summary": "作为合肥近郊路线方向收录，景区车辆进入、节假日管控和道路施工需当地车友确认。",
+          "verification": "公开搜索候选",
+          "parking": "景区外围合法停车",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%90%88%E8%82%A5%20%E6%91%A9%E6%97%85%20%E7%B4%AB%E8%93%AC%E5%B1%B1"
+        },
+        {
+          "name": "德悦摩托",
+          "type": "维修装备/骑士据点",
+          "summary": "B站商家公开视频提供摩托销售、俱乐部与二手车线索；属于商业内容，服务质量需真实车友评价。",
+          "verification": "B站商家公开内容",
+          "parking": "到店前确认地址和营业",
+          "access": "candidate",
+          "sourceUrl": "https://www.bilibili.com/video/BV1rT411n7gr/"
+        }
+      ]
+    },
+    {
+      "city": "贵阳",
+      "spots": [
+        {
+          "name": "花溪—高坡方向",
+          "type": "近郊山景路线",
+          "summary": "贵阳南部山地路线方向，弯道、雾雨和村镇交通风险需要强提示，具体线路等待本地骑友验证。",
+          "verification": "社交平台公开索引",
+          "parking": "只在正规观景和补给点停靠",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E8%B4%B5%E9%98%B3%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E9%AB%98%E5%9D%A1"
+        },
+        {
+          "name": "贵阳—荔波—茂兰国道方向",
+          "type": "多日远途",
+          "summary": "B站摩旅系列记录荔波、茂兰和贵州国道，不应包装成半日路线；需管理雨雾、补给和疲劳。",
+          "verification": "B站摩旅系列",
+          "parking": "景区外正规停车与县城补给",
+          "access": "candidate",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Kh4y1j7GK/"
+        },
+        {
+          "name": "安运机车租赁",
+          "type": "骑士服务候选",
+          "summary": "B站公开商家内容提供贵阳摩托租赁线索；资质、车辆状况、保险与合同必须独立核验。",
+          "verification": "B站商家公开内容",
+          "parking": "预约前核验资质和当前地址",
+          "access": "unknown",
+          "sourceUrl": "https://www.bilibili.com/video/BV1kM4m1r79V/"
+        }
+      ]
+    },
+    {
+      "city": "太原",
+      "spots": [
+        {
+          "name": "角子崖",
+          "type": "山景跑山候选",
+          "summary": "B站摩友公开视频记录角子崖景观与太原摩旅，山路状况和停车需按当天实际确认。",
+          "verification": "B站摩友内容",
+          "parking": "仅在安全合法位置停靠",
+          "access": "candidate",
+          "sourceUrl": "https://www.bilibili.com/video/BV1UY411u74K/"
+        },
+        {
+          "name": "太原—平顺太行天路方向",
+          "type": "多日山路",
+          "summary": "公开摩旅内容涉及虹梯关挂壁公路、岳家寨等，路线远且复杂，不适合包装成城市短途。",
+          "verification": "B站摩旅攻略",
+          "parking": "山区补给、天气和落石需提前规划",
+          "access": "candidate",
+          "sourceUrl": "https://www.bilibili.com/video/BV1Gu411A7Sg/"
+        },
+        {
+          "name": "晋祠—天龙山外围方向",
+          "type": "人文山景候选",
+          "summary": "人文与山景路线方向；景区、隧道和盘山路通行政策需以当日公告为准。",
+          "verification": "公开平台候选",
+          "parking": "景区外围合法停车",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E5%8E%9F%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E5%A4%A9%E9%BE%99%E5%B1%B1"
+        }
+      ]
+    },
+    {
+      "city": "兰州",
+      "spots": [
+        {
+          "name": "兰州—西宁—张掖青甘小环线入口",
+          "type": "多日远途",
+          "summary": "B站摩旅Vlog记录从兰州出发的青甘小环线，需按多日行程管理高原天气、油料、住宿与疲劳。",
+          "verification": "B站摩旅Vlog",
+          "parking": "沿途正规服务区和县城补给",
+          "access": "candidate",
+          "sourceUrl": "https://www.bilibili.com/video/BV1dUGQz9ErV/"
+        },
+        {
+          "name": "黄河风情线西段外围",
+          "type": "城市风景拍照",
+          "summary": "黄河城市景观适合夕阳题材，中山桥为步行区域，摩托只能寻找外围合法机位。",
+          "verification": "官方景观资料+公开内容",
+          "parking": "不占桥面、步道和禁停道路",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%85%B0%E5%B7%9E%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E9%BB%84%E6%B2%B3"
+        },
+        {
+          "name": "兰州高速入口政策核验点",
+          "type": "通行规则/出发检查",
+          "summary": "公开视频显示不同收费站执行可能不同，App不能仅凭旧视频判断能否上高速，必须以现场和官方最新规则为准。",
+          "verification": "B站公开视频线索",
+          "parking": "出发前查询并服从收费站管理",
+          "access": "unknown",
+          "sourceUrl": "https://www.bilibili.com/video/BV1un4y1d74R/"
+        }
+      ]
+    },
+    {
+      "city": "郑州",
+      "spots": [
+        {
+          "name": "郑州北郊经典摩托收藏点线索",
+          "type": "机车文化据点",
+          "summary": "B站公开视频展示大量经典摩托收藏，是否对外开放、具体地址与参观规则需先联系确认。",
+          "verification": "B站公开视频",
+          "parking": "未确认开放，不直接导航",
+          "access": "unknown",
+          "sourceUrl": "https://www.bilibili.com/video/BV1j14y1m7Gn"
+        },
+        {
+          "name": "伏羲山外围公路方向",
+          "type": "近郊山路候选",
+          "summary": "郑州西部常见近郊山景方向，坡弯、景区交通和节假日拥堵需本地复核。",
+          "verification": "社交平台公开索引",
+          "parking": "景区外围和合法观景点",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E9%83%91%E5%B7%9E%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E4%BC%8F%E7%BE%B2%E5%B1%B1"
+        },
+        {
+          "name": "黄河公路大桥外围机位候选",
+          "type": "城市公路拍照",
+          "summary": "只收录桥外合法停车区域，严禁桥面停车或在车流中摆拍。",
+          "verification": "公开平台候选",
+          "parking": "桥外合法区域，机位待实测",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E9%83%91%E5%B7%9E%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E6%8B%8D%E7%85%A7"
+        }
+      ]
+    },
+    {
+      "city": "石家庄",
+      "spots": [
+        {
+          "name": "井陉太行天路方向",
+          "type": "山路/村落远途",
+          "summary": "太行山公路与古村方向适合风景内容，但城区禁限行、山路落石与施工需提前核验。",
+          "verification": "社交平台公开索引",
+          "parking": "村内不扰民，只在正规停车点",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E7%9F%B3%E5%AE%B6%E5%BA%84%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E4%BA%95%E9%99%89%20%E5%A4%AA%E8%A1%8C%E5%A4%A9%E8%B7%AF"
+        },
+        {
+          "name": "滹沱河沿线外围合法道路",
+          "type": "城市水景拍照",
+          "summary": "只展示允许机动车通行的外围道路，不把绿道和步行区推荐给摩托。",
+          "verification": "公开平台候选",
+          "parking": "仅使用合法停车位",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E7%9F%B3%E5%AE%B6%E5%BA%84%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E6%BB%B9%E6%B2%B1%E6%B2%B3"
+        },
+        {
+          "name": "正定古城外围",
+          "type": "复古建筑拍照",
+          "summary": "适合古城氛围内容，摩托停在外围合法区域后步行，不进入步行街和文保区。",
+          "verification": "公开旅游内容",
+          "parking": "外围停车后步行",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E6%AD%A3%E5%AE%9A%E5%8F%A4%E5%9F%8E%20%E6%91%A9%E6%89%98%E8%BD%A6"
+        }
+      ]
+    },
+    {
+      "city": "南昌",
+      "spots": [
+        {
+          "name": "梅岭合法公路方向",
+          "type": "近郊山路候选",
+          "summary": "南昌近郊常见跑山方向；雨雾、落叶、弯道和景区车辆管控需要强提醒。",
+          "verification": "社交平台公开索引",
+          "parking": "只在景区外正规停车点",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%8D%97%E6%98%8C%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E6%A2%85%E5%B2%AD"
+        },
+        {
+          "name": "瑶湖郊野森林公园外围",
+          "type": "湖景拍照",
+          "summary": "只收录外围机动车道路和合法停车，不把公园步道作为摩托路线。",
+          "verification": "公开平台候选",
+          "parking": "外围合法停车后步行",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%8D%97%E6%98%8C%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E7%91%B6%E6%B9%96"
+        },
+        {
+          "name": "南昌—瑞金国道摩旅方向",
+          "type": "多日远途",
+          "summary": "小排量进藏系列包含江西瑞金段，可用于研究跨城补给和小排量远途需求。",
+          "verification": "B站摩旅系列",
+          "parking": "按国省道、天气与住宿重新规划",
+          "access": "unknown",
+          "sourceUrl": "https://www.bilibili.com/video/BV1MP4y1t7Uh/"
+        }
+      ]
+    },
+    {
+      "city": "长春",
+      "spots": [
+        {
+          "name": "净月潭外围公路",
+          "type": "森林风景拍照",
+          "summary": "景区内部以步行和自行车活动为主，摩托只考虑外围合法道路与停车后步行。",
+          "verification": "公开平台候选",
+          "parking": "景区外围停车",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E9%95%BF%E6%98%A5%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E5%87%80%E6%9C%88%E6%BD%AD"
+        },
+        {
+          "name": "新立城水库外围方向",
+          "type": "近郊水景候选",
+          "summary": "水源保护和道路管理优先，只作为外围公路方向，禁止进入保护区和非道路区域。",
+          "verification": "公开搜索候选",
+          "parking": "水源保护规则优先",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E9%95%BF%E6%98%A5%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E6%96%B0%E7%AB%8B%E5%9F%8E"
+        },
+        {
+          "name": "一汽历史文化街区外围",
+          "type": "汽车工业拍照",
+          "summary": "汽车工业文化适合车辆主题内容，厂区和文保建筑不得擅自进入，机位需当地车友验证。",
+          "verification": "公开文化资料候选",
+          "parking": "公共道路合法停车",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E9%95%BF%E6%98%A5%20%E6%9C%BA%E8%BD%A6%20%E6%8B%8D%E7%85%A7"
+        }
+      ]
+    },
+    {
+      "city": "哈尔滨",
+      "spots": [
+        {
+          "name": "太阳岛外围合法道路",
+          "type": "城市风景拍照",
+          "summary": "岛内景区规则和冰雪季安全优先，摩托默认停外围后步行。",
+          "verification": "公开平台候选",
+          "parking": "景区外围合法停车",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%B0%94%E6%BB%A8%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E5%A4%AA%E9%98%B3%E5%B2%9B"
+        },
+        {
+          "name": "哈尔滨—亚布力方向",
+          "type": "远途山林路线",
+          "summary": "属于跨城远途方向，冬季默认不推荐非必要骑行；夏秋也需检查施工、补给和返程体力。",
+          "verification": "社交平台公开索引",
+          "parking": "沿途正规服务区",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%B0%94%E6%BB%A8%20%E6%91%A9%E6%97%85%20%E4%BA%9A%E5%B8%83%E5%8A%9B"
+        },
+        {
+          "name": "松花江铁路桥外围机位",
+          "type": "工业城市拍照",
+          "summary": "桥体与江景适合工业题材，摩托不得进入步行桥，只寻找外围合法道路机位。",
+          "verification": "公开图文候选",
+          "parking": "外围合法停车",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%B0%94%E6%BB%A8%20%E6%9C%BA%E8%BD%A6%20%E6%8B%8D%E7%85%A7"
+        }
+      ]
+    },
+    {
+      "city": "呼和浩特",
+      "spots": [
+        {
+          "name": "水磨村观光线",
+          "type": "近郊风景候选",
+          "summary": "B站公开视频展示水磨村观光线景色和拥堵情况；是否适合摩托与当前道路规则需再次确认。",
+          "verification": "B站公开视频",
+          "parking": "村内不扰民，只在合法位置停靠",
+          "access": "unknown",
+          "sourceUrl": "https://www.bilibili.com/video/BV1VWGZzKEB3/"
+        },
+        {
+          "name": "大青山前坡合法公路方向",
+          "type": "山景路线候选",
+          "summary": "只收录公开机动车道路方向，保护区、森林防火期和封路信息必须当天核验。",
+          "verification": "社交平台公开索引",
+          "parking": "避开保护区和非道路区域",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E5%A4%A7%E9%9D%92%E5%B1%B1"
+        },
+        {
+          "name": "呼和浩特摩托通行政策观察",
+          "type": "限行/出发检查",
+          "summary": "旧视频曾讨论放宽禁摩，但政策具有强时效性，App必须链接到最新交管公告而不是沿用旧结论。",
+          "verification": "B站舆情线索",
+          "parking": "以当地交管最新公告为准",
+          "access": "unknown",
+          "sourceUrl": "https://www.bilibili.com/video/BV1mu411v7z5/"
+        }
+      ]
+    },
+    {
+      "city": "银川",
+      "spots": [
+        {
+          "name": "贺兰山外围公路方向",
+          "type": "山景远途候选",
+          "summary": "保护区和景区车辆规则优先，摩托不进入封闭道路和非铺装保护区域。",
+          "verification": "社交平台公开索引",
+          "parking": "仅在景区外正规停车点",
+          "access": "unknown",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E9%93%B6%E5%B7%9D%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E8%B4%BA%E5%85%B0%E5%B1%B1"
+        },
+        {
+          "name": "银川—中卫沙漠公路方向",
+          "type": "多日荒漠远途",
+          "summary": "高温、横风、沙尘与长距离补给是核心风险，不能包装成随意出发的半日路线。",
+          "verification": "B站摩旅公开索引",
+          "parking": "提前规划油料、饮水和救援",
+          "access": "candidate",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E9%93%B6%E5%B7%9D%20%E4%B8%AD%E5%8D%AB%20%E6%91%A9%E6%97%85"
+        },
+        {
+          "name": "览山公园外围日落机位",
+          "type": "城市日落拍照",
+          "summary": "看台与公园内部以步行为主，摩托只考虑外围合法停车后步行拍摄。",
+          "verification": "公开平台候选",
+          "parking": "公园外围停车",
+          "access": "outside_only",
+          "sourceUrl": "https://search.bilibili.com/all?keyword=%E9%93%B6%E5%B7%9D%20%E6%91%A9%E6%89%98%E8%BD%A6%20%E6%8B%8D%E7%85%A7"
+        }
+      ]
+    }
+  ]
+}
