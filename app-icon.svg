@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="68%">
+      <stop offset="0" stop-color="#292b2d"/>
+      <stop offset="1" stop-color="#07090b"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fff2b0"/>
+      <stop offset=".45" stop-color="#d6a83e"/>
+      <stop offset="1" stop-color="#855a16"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="174" fill="none" stroke="#d6a83e" stroke-opacity=".18" stroke-width="3"/>
+  <circle cx="256" cy="256" r="124" fill="none" stroke="#d6a83e" stroke-opacity=".14" stroke-width="2"/>
+  <path d="M256 66v46M256 400v46M66 256h46M400 256h46" stroke="#d6a83e" stroke-opacity=".55" stroke-width="8" stroke-linecap="round"/>
+  <path d="M141 289h49l33-86h67l35 86h46" fill="none" stroke="url(#gold)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M225 203l-31 86h123l-30-86M224 203h79M278 202l37-31h45" fill="none" stroke="#f4d883" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="158" cy="309" r="48" fill="#090b0d" stroke="url(#gold)" stroke-width="18"/>
+  <circle cx="354" cy="309" r="48" fill="#090b0d" stroke="url(#gold)" stroke-width="18"/>
+  <circle cx="158" cy="309" r="10" fill="#f4d883"/>
+  <circle cx="354" cy="309" r="10" fill="#f4d883"/>
+  <path d="M256 136a120 120 0 0 1 116 90" fill="none" stroke="#f4d883" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="377" cy="225" r="13" fill="#f4d883"/>
+  <text x="256" y="415" fill="#f4d883" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle" letter-spacing="8">RIDER AI</text>
+</svg>
