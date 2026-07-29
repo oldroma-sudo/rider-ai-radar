@@ -1,4 +1,4 @@
-const CACHE_NAME = "rider-ai-radar-v4";
+const CACHE_NAME = "rider-ai-radar-v6";
 const APP_SHELL = ["./", "./manifest.webmanifest", "./app-icon.svg"];
 
 self.addEventListener("install", (event) => {
