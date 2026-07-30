@@ -27,11 +27,23 @@
             manifest.parts.map(function (part) {
               return fetch("./" + part).then(function (response) {
                 if (!response.ok) throw new Error("division chunk unavailable");
-                return response.json();
+                return response.text();
               });
             }),
-          ).then(function (chunks) {
-            return { meta: manifest.meta, rows: chunks.flat() };
+          ).then(async function (chunks) {
+            if (manifest.encoding === "gzip-base64") {
+              if (typeof DecompressionStream === "undefined") {
+                throw new Error("compressed location data unsupported");
+              }
+              const binary = atob(chunks.join(""));
+              const bytes = Uint8Array.from(binary, function (character) {
+                return character.charCodeAt(0);
+              });
+              const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream("gzip"));
+              const rows = JSON.parse(await new Response(stream).text());
+              return { meta: manifest.meta, rows: rows };
+            }
+            return { meta: manifest.meta, rows: chunks.map(JSON.parse).flat() };
           });
         })
         .catch(function () {
